@@ -17,7 +17,7 @@ Especificamente no color flipper, a metodologia aplicada é de ver os tutoriais,
 
 ## Deploy
 
-* [Color Flipper](LINK DEPLOY) 
+* [Color Flipper](https://luisbarrichello-colorflipper.netlify.app/) 
 
 
 ## Contato:
